@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "title": "Full Stack Developer",
+    "location": "San Francisco, CA",
+    "contact": {
+      "email": "john.doe@example.com",
+      "phone": "+1-555-123-4567",
+      "github": "https://github.com/johndoe",
+      "linkedin": "https://www.linkedin.com/in/johndoe/"
+    },
+    "skills": [
+      "JavaScript",
+      "React",
+      "Node.js",
+      "HTML",
+      "CSS",
+      "MongoDB",
+      "Git",
+      "Tailwind CSS"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "title": "Frontend Developer",
+    "location": "New York, NY",
+    "contact": {
+      "email": "jane.smith@example.com",
+      "phone": "+1-555-987-6543",
+      "github": "https://github.com/janesmith",
+      "linkedin": "https://www.linkedin.com/in/janesmith/"
+    },
+    "skills": ["HTML", "CSS", "JavaScript", "React", "Vue.js", "Sass", "Git"]
+  },
+  {
+    "id": 3,
+    "name": "Emily Johnson",
+    "title": "Backend Developer",
+    "location": "Austin, TX",
+    "contact": {
+      "email": "emily.johnson@example.com",
+      "phone": "+1-555-654-3210",
+      "github": "https://github.com/emilyjohnson",
+      "linkedin": "https://www.linkedin.com/in/emilyjohnson/"
+    },
+    "skills": ["Python", "Django", "Flask", "PostgreSQL", "REST APIs", "Git"]
+  }
+]
